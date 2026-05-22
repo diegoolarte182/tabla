@@ -1,0 +1,6 @@
+{
+  "name": "Digital Sources Periodic Table for Teachers",
+  "description": "An interactive, gamified periodic table of digital resources, educational apps, and AI-powered tools curated for teachers and educational professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
